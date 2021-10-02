@@ -1,2 +1,2 @@
 # Java
-Exercícios de JAVA proposto pela Generation Brasil.
+Exercícios de JAVA propostos pela Generation Brasil.
